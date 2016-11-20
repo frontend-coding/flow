@@ -1,0 +1,16 @@
+{
+  "name": "flow",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "url": "git@github.com:frontend-coding/flow.git",
+    "type": "git"
+  },
+  "author": "mo <feng_zilong@163.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "flow-bin": "^0.35.0"
+  }
+}
