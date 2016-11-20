@@ -1,5 +1,13 @@
 # flow
 
+### init
+
+```bash
+$ flow init
+```
+
+
+### check
 ```bash
 $ flow check
 ```
